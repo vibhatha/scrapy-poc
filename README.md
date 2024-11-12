@@ -22,3 +22,5 @@ You can start your first spider with:
 5. [Name Entity Recognition v2](https://spacy.io/api/large-language-models#ner-v2)
 6. [Extract Relations](https://spacy.io/api/large-language-models#rel-v1)
 7. [Cache to optimize](https://spacy.io/api/large-language-models#cache)
+
+## Reference
