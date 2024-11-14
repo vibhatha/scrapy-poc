@@ -1,0 +1,118 @@
+```json
+[
+    {
+        "Minister Responsible": "Minister of Defence",
+        "Subjects and Functions": [
+            "Formulation, implementation, monitoring and evaluation of policies, strategies, programmes, and projects, in relation to the subject of Defence, and those subjects that come under the purview of Departments, Statutory Institutions and Public Corporations listed in Column II based on the national policies implemented by the government",
+            "Provision of relevant public services under the purview of the Ministry in an efficient and people friendly manner"
+        ],
+        "Departments": [
+            "Office of the Chief Defence Staff",
+            "Sri Lanka Army"
+        ],
+        "Laws": [
+            "Chief of Defence Staff Act No. 35 of 2009",
+            "Army Act No. 17 of 1949"
+        ]
+    },
+    {
+        "Minister Responsible": "Minister of Defence",
+        "Subjects and Functions": [
+            "Performing responsibilities related to explosives, firearms, offensive weapons and chemical weapons",
+            "Provision of defence education and post-service education for defence service personnel"
+        ],
+        "Departments": [
+            "Sri Lanka Navy",
+            "Sri Lanka Air Force"
+        ],
+        "Laws": [
+            "National Hydrographic Act No. 7 of 2024",
+            "Sri Lanka Disaster Management Act No. 13 of 2005"
+        ]
+    },
+    {
+        "Minister Responsible": "Minister of Defence",
+        "Subjects and Functions": [
+            "Forecasting natural disasters and sensitizing relevant sectors regarding them",
+            "Conducting rescue operations during natural and man-made disasters"
+        ],
+        "Departments": [
+            "Sri Lanka Air Force",
+            "National Cadet Corps"
+        ],
+        "Laws": []
+    },
+    {
+        "Minister Responsible": "Minister of Finance, Economic Development, Policy Formulation, Planning and Tourism",
+        "Subjects and Functions": [
+            "Formulation, implementation, monitoring and evaluation of policies, strategies, programmes and projects, in relation to the subjects of Finance, Economic Development, Policy Formulation, Planning and Tourism and those subjects that come under the purview of Departments, Statutory Institutions and Public Corporations listed in Column II",
+            "Provision of public services under the purview of the Ministry in an efficient and people friendly manner"
+        ],
+        "Departments": [
+            "Department of National Planning",
+            "Department of External Resources"
+        ],
+        "Laws": [
+            "Appropriation Acts",
+            "Customs Ordinance, No. 17 of 1956"
+        ]
+    },
+    {
+        "Minister Responsible": "Minister of Finance, Economic Development, Policy Formulation, Planning and Tourism",
+        "Subjects and Functions": [
+            "Execution of appropriate measures to ensure debt sustainability",
+            "Facilitation, coordination and monitoring of the implementation of cross-sectoral national policy priorities"
+        ],
+        "Departments": [
+            "Department of State Accounts",
+            "Department of Management Services"
+        ],
+        "Laws": [
+            "Value Added Tax Act No. 14 of 2002",
+            "Welfare Benefits Act No. 24 of 2002"
+        ]
+    },
+    {
+        "Minister Responsible": "Minister of Finance, Economic Development, Policy Formulation, Planning and Tourism",
+        "Subjects and Functions": [
+            "Coordination with international agencies and mobilization of foreign resources for economic development",
+            "Preparation of the annual budget and management of financial resources"
+        ],
+        "Departments": [
+            "Department of Project Management and Monitoring",
+            "Department of Inland Revenue"
+        ],
+        "Laws": [
+            "Public Financial Management Act No. 44 of 2024",
+            "Regulation of Insurance Industry Act No. 43 of 2000"
+        ]
+    },
+    {
+        "Minister Responsible": "Minister of Finance, Economic Development, Policy Formulation, Planning and Tourism",
+        "Subjects and Functions": [
+            "Development of the tourism industry and promotion of high standards in line with the national policy while promoting Sri Lanka's image",
+            "Facilitating to enhance medical tourism by providing a whole range of medical care and treatments including Ayurvedic therapy"
+        ],
+        "Departments": [
+            "Department of National Botanic Gardens",
+            "Colombo Port City Economic Commission"
+        ],
+        "Laws": []
+    },
+    {
+        "Minister Responsible": "Minister of Finance, Economic Development, Policy Formulation, Planning and Tourism",
+        "Subjects and Functions": [
+            "Financial administration of Public Corporations, Statutory Boards and Government Owned Companies",
+            "Development of Colombo Port City Special Economic Zone with the objective of national welfare and economic development"
+        ],
+        "Departments": [
+            "Department of Export Control",
+            "Sri Lanka Export Development Board"
+        ],
+        "Laws": [
+            "Colombo Port City Economic Commission Act No. 11 of 2021",
+            "Public Debt Management Act No. 33 of 2024"
+        ]
+    }
+]
+```
